@@ -25,7 +25,7 @@ If you're looking for advanced ML insights, this might not be the stop for you. 
 ## Acknowledgements 👏
 
 - A shoutout to my instructors at HVL for pushing me into the open-source world.
-- Gratitude to coffee, for being the true MVP during late-night coding sessions.
+- Gratitude to coffee, for being the true MVP during the late-night deadline.
 
 Enjoy exploring this simple ML project. Star it if you find it helpful or amusing, and may your journey in Machine Learning be ever enlightening!
 
